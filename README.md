@@ -1,0 +1,1 @@
+Base58 without any dependencies. For node.js 10.4+ (needs BigInt support)
