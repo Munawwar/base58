@@ -1,0 +1,19 @@
+{
+  "name": "simple-base58",
+  "version": "1.0.0",
+  "description": "Base58 (without any dependencies)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munawwar/base58.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Munawwar/base58/issues"
+  },
+  "homepage": "https://github.com/Munawwar/base58#readme"
+}
